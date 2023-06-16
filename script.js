@@ -1,4 +1,4 @@
-var API_key = "RGAPI-1c55dafc-0505-4cbf-be9f-969276d96c7d"
+var API_key = "---"//diferente para cada pessoa
 var euw_url  = "https://euw1.api.riotgames.com";
 var summoner_name = "";
 const regions = ["br1.api.riotgames.com","eun1.api.riotgames.com","euw1.api.riotgames.com","jp1.api.riotgames.com","kr.api.riotgames.com","la1.api.riotgames.com","la2.api.riotgames.com","na1.api.riotgames.com","oc1.api.riotgames.com","tr1.api.riotgames.com","ru.api.riotgames.com","ph2.api.riotgames.com","sg2.api.riotgames.com","th2.api.riotgames.com","tw2.api.riotgames.com","vn2.api.riotgames.com"]
